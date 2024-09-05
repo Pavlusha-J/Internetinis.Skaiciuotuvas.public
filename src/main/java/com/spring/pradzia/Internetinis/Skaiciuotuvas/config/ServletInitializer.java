@@ -1,5 +1,6 @@
-package com.spring.pradzia.Internetinis.Skaiciuotuvas;
+package com.spring.pradzia.Internetinis.Skaiciuotuvas.config;
 
+import com.spring.pradzia.Internetinis.Skaiciuotuvas.InternetinisSkaiciuotuvasApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
